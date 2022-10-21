@@ -65,6 +65,8 @@ In addition to temperatures, it is recommended to include precipitation analysis
 
 June Summary Data 
 ![June Results](https://github.com/klbrabec/surfs_up_challenge/blob/bc28846d89eee2218e8c742c639dd0ea5323ee3c/june_precip_results.JPG)
+
+
 December Summary Data
 ![December Results](https://github.com/klbrabec/surfs_up_challenge/blob/bc28846d89eee2218e8c742c639dd0ea5323ee3c/december_precip_results.JPG)
 
