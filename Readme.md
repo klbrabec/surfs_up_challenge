@@ -5,6 +5,9 @@ This project was scoped to review the temperatures measured in the months of Jun
 Source information was provided in a SQLite database to be queried against.  This data was queried using SQLite and SQLAlchemy and imported into a Pandas DataFrame for analysis.  
 
 ## Data Scrubbing 
+Link to the Jupyter Notebook Code is here: 
+[Surf's Up Challenge](https://github.com/klbrabec/surfs_up_challenge/blob/8510a42e962a93a84f09ced799180640e35bc754/SurfsUp_Challenge.ipynb)
+
 Once the SQLite database was stored locally, it was queried to access the tables and the data they contained.  The data points available are the US Weather Station, the date of the measurement, any precipitation totals, and the temperature observation for that date.    SQLAlchemy was used to extract the date and temperature observations for the study  months (June and December) for years 2010 through 2017.  This information was then converted to a Pandas DataFrame and summary statistics for the data were calculated which will be compared later in this analysis. 
 
 ## Results Review
