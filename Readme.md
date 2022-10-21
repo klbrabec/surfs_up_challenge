@@ -78,10 +78,12 @@ Out of the total number of records for June, (1574) there were 927 days where th
 This information will provide a foundation to business decisions that should be made for the anticipated business creation, however there are some additional data points that should be considered.  These are outside of the scope of this project and are not included in the data that was provided for analysis, but may be helpful for business planning. 
 
 Travel Seasons 
-: There are travel seasons that would drive additional business to the SurfsUp shop.  These seasons could include holidays, school breaks, spring break, summer vacations
+- There are travel seasons that would drive additional business to the SurfsUp shop.  These seasons could include holidays, school breaks, spring break, summer vacations
+
 International Travel 
-: Travel from other countries would also drive business to the shop.  These travel schedules are often quite different from typical domestic travel.  Again, holidays, school breaks, spring breaks and other vacations should be considered.  (These could possibly be polar opposites to domestic travel due to geographic differences)
+- Travel from other countries would also drive business to the shop.  These travel schedules are often quite different from typical domestic travel.  Again, holidays, school breaks, spring breaks and other vacations should be considered.  (These could possibly be polar opposites to domestic travel due to geographic differences)
+
 Wedding Season
-: Hawaii is a location that is often favored for honeymoons and anniversaries.  Trends in this area should also be considered and analyzed for planning. 
+- Hawaii is a location that is often favored for honeymoons and anniversaries.  Trends in this area should also be considered and analyzed for planning. 
 
 
