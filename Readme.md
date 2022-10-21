@@ -1,4 +1,4 @@
-# Analysis of Temperatures in June and December 
+# Analysis of  Hawaiian Temperatures in June and December 
 ## Overview of Analysis
 This project was scoped to review the temperatures measured in the months of June and December, with the intent to have information to plan for the opening of a surf and ice cream shop in Hawaii.  
 
