@@ -64,10 +64,12 @@ For the most part, there are not dramatic differences between the temperatures i
 In addition to temperatures, it is recommended to include precipitation analysis between June and December.  This has been included in the data sets and queries that are included in this project.  The summary statistics of the additional information can be seen below: 
 
 June Summary Data 
+
 ![June Results](https://github.com/klbrabec/surfs_up_challenge/blob/bc28846d89eee2218e8c742c639dd0ea5323ee3c/june_precip_results.JPG)
 
 
 December Summary Data
+
 ![December Results](https://github.com/klbrabec/surfs_up_challenge/blob/bc28846d89eee2218e8c742c639dd0ea5323ee3c/december_precip_results.JPG)
 
 Out of the total number of records for June, (1574) there were 927 days where there was some precipitation. This is approximately 58.9% of dates in June.  In comparison, there were 895 days in December that had precipitation (total number of records - 1405) This is approximately 63.7% of dates in December with some level of precipitation.  While this gives an approximate indication that December is the rainy season in Hawaii, additional data cleaning should be done to remove records that do not have both a temperature and precipitation reading prior to doing these calcuations.  This will provide a more accurate picture of weather patterns. 
